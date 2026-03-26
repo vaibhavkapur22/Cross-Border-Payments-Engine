@@ -2,6 +2,8 @@
 
 A stablecoin-powered remittance engine that settles USD-to-INR transfers over USDC on Base, with double-entry ledger accounting, a settlement state machine, and real-time SWIFT fee benchmarking.
 
+> **[Read the full documentation](https://vaibhavkapur22.github.io/Cross-Border-Payments-Engine/)**
+
 ## Getting Started
 
 ```bash
